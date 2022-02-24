@@ -1,5 +1,5 @@
 ## Prazer! Meu nome é Esdras Daniel
-📚 Atualmente sou estudadante de programação! <br>
+📚 Atualmente sou estudante de programação<br>
 💻 Sou apaixonado por Tecnologia! <br>
 💼 Não estou trabalhando (por enquanto) 
 

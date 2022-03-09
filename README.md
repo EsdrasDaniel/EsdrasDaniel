@@ -1,7 +1,7 @@
-                                                 ## Prazer! Meu nome é Esdras Daniel
-                                               📚 Atualmente sou estudante de programação<br> 
+                                                 <h1> Prazer! Meu nome é Esdras Daniel </h1>
+                                              <h2> 📚 Atualmente sou estudante de programação<br> 
                                                💻 Sou apaixonado por Tecnologia! <br>
-                                               💼 Não estou trabalhando (por enquanto) 
+                                               💼 Não estou trabalhando (por enquanto) </h2>
 
 <div align="center">
   <a href="https://www.instagram.com/esdrasdaniell/">

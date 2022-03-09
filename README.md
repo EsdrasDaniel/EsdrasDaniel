@@ -1,12 +1,12 @@
-## Prazer! Meu nome é Esdras Daniel
-📚 Atualmente sou estudante de programação<br>
-💻 Sou apaixonado por Tecnologia! <br>
-💼 Não estou trabalhando (por enquanto) 
+                                                 ## Prazer! Meu nome é Esdras Daniel
+                                               📚 Atualmente sou estudante de programação<br> 
+                                               💻 Sou apaixonado por Tecnologia! <br>
+                                               💼 Não estou trabalhando (por enquanto) 
 
 <div align="center">
   <a href="https://www.instagram.com/esdrasdaniell/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EsdrasDaniel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasDaniel&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EsdrasDaniel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasDaniel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>

@@ -1,8 +1,8 @@
-                                                 <h1> Prazer! Meu nome é Esdras Daniel </h1>
-                                              <h2> 📚 Atualmente sou estudante de programação<br> 
-                                               💻 Sou apaixonado por Tecnologia! <br>
-                                               💼 Não estou trabalhando (por enquanto) </h2>
-
+<div align="center"> <h1>Prazer! Meu nome é Esdras Daniel</h1> 
+<h3>📚 Atualmente sou estudante de programação<br> 
+💻 Sou apaixonado por Tecnologia! <br>
+  💼 Não estou trabalhando (por enquanto)</h3> 
+  </div>
 <div align="center">
   <a href="https://www.instagram.com/esdrasdaniell/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EsdrasDaniel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

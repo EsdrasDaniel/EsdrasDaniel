@@ -1,7 +1,7 @@
 <div align="center"> <h1>Prazer! Meu nome é Esdras Daniel</h1> 
 <h3>📚 Atualmente sou estudante de programação<br> 
 💻 Sou apaixonado por Tecnologia! <br>
-  💼 Não estou trabalhando (por enquanto)</h3> 
+  💼 hoje trabalho como estagiário de Front-end na TRANSPEDROSA</h3> 
   </div>
 <div align="center">
   <a href="https://www.instagram.com/esdrasdaniell/">
